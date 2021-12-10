@@ -1,0 +1,10 @@
+#Area of circle:
+r = 7
+pi=22/7
+print("Area of circle:", pi*r*r )
+
+# perimeter of circle:
+
+r = 10.2
+pi=22/7
+print("Perimeter of circle:", 2*pi*r )
