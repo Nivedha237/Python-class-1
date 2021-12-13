@@ -1,0 +1,64 @@
+write a program to calculate area of circle with radius (float) (collect using input function)
+r=float(input("enter the radius:"))
+area=3.14*r*r
+area=int(area)
+print(area)
+
+write a program to calculate perimeter of the cricle with radius (float) (collect it through input function)
+r=float(input("enter the radius:"))
+p=2*3.14*r
+print(p)
+
+
+
+r=float(input("enter the radius:"))
+h=float(input("enter the height:"))
+area of cone=pi*r*r*h
+pi=3.14
+area of cone=int(area of cone)
+print(area of cone)
+print("area of cone with r {} and h {} is {}:".format(r,h,area of cone))
+
+indexing value of "computer_science"
+print(a[-1]) #last char
+print(a[0]) #first char
+
+print(a[4])
+print(a[-4])
+
+print(a[2])
+print(a[-2])
+
+print(a[-3])
+print(a[-5]) 
+
+print(a[7])
+print(a[-7])
+
+print(a[8])
+print(a[-8])
+
+ouput:
+e
+c
+u
+e
+m
+c
+n
+i
+r
+s
+_
+_
+
+
+
+
+
+
+
+
+
+
+
